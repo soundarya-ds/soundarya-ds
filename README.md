@@ -1,36 +1,66 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Soundarya Lakshmi Rajendran
-====================================================================================================================================================
+<h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> I'm Soundarya Lakshmi Rajendran</h1>
 
-Data Science & AI Enthusiast | Exploring NLP, Machine Learning, and Data Analytics
-----------------------------------------------------------------------------------
+<h3>Data Science graduate student · NLP · Machine Learning · Data Analytics</h3>
 
-I am a Data Science graduate student with a strong interest in Artificial Intelligence 🤖, Machine Learning 📊, and Natural Language Processing 💬. I enjoy working with real-world data to uncover insights, identify patterns, and build data-driven solutions.
+I'm an MS Data Science student passionate about building AI and ML systems that solve real problems. Currently volunteering as a Data Scientist at **Grafham Analytics**, contributing to the Michigan Data Center project under the guidance of David Corliss — doing EDA, data cleaning, and visualization in R and RStudio.
 
-I am currently working as a Volunteer Data Scientist at Grafham Analytics, contributing to the Michigan Data Center project under the guidance of David Corliss. In this role, I work with datasets involving data cleaning 🧹, preprocessing ⚙️, integration 🔗, exploratory data analysis (EDA) 📈, and data visualization 📊 using R and RStudio.
+My focus areas are NLP, machine learning, and predictive modeling. I've built projects ranging from an AI mental health chatbot to obesity pattern analysis and hospital management systems. I'm always looking for opportunities to apply data science to meaningful, real-world challenges.
 
-Through this experience, I am strengthening my analytical thinking and improving my technical skills in Python 🐍, R 📘, SQL 🗄️, and machine learning techniques. I am also actively exploring NLP and AI-based projects to build practical, real-world applications.
+- 🌍 Based in the United States
+- 📬 Reach me at [soundary@umich.edu](mailto:soundary@umich.edu)
+- 🧠 Currently working with Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, SpaCy, NLTK, and Hugging Face Transformers
+- 🤝 Open to collaboration on Data Science, Machine Learning, NLP, and Computer Vision projects
+- 💬 *"By day I work with datasets, by night I negotiate with missing values."*
 
-My goal is to grow as a Data Scientist by working on impactful projects that combine data, machine learning, and intelligent systems to solve meaningful problems.
+---
 
-* 🌍  I'm based in United States
-* ✉️  You can contact me at [soundary@umich.edu](mailto:soundary@umich.edu)
-* 🧠  I'm currently learning I am currently learning and working with machine learning and data science frameworks including Scikit-learn 🤖, Pandas 🐼, NumPy 🔢, Matplotlib 📊, and Seaborn 📈 for data analysis and visualization. I am also exploring NLP frameworks such as SpaCy 💬, NLTK, and Hugging Face Transformers 🤗 for building text-based AI applications.
-* 👥  I'm looking to collaborate on I am open to collaboration on Data Science 📊, Machine Learning 🤖, Natural Language Processing 💬, and I am currently learning Computer Vision 👁️. I enjoy working with real-world datasets and exploring AI-driven applications.
-* 💬  Ask me about I am secretly a Data Scientist 🤖… but don’t tell anyone 😄. By day I work with datasets 📊, by night I negotiate with missing values 🧹.
+### 🛠 Skills
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" alt="rlang" title="rlang" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python" /></a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="R" title="R" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL" /></a>
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" title="Google Cloud" /></a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="AWS" title="AWS" /></a>
+<a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" width="36" height="36" alt="Hugging Face" title="Hugging Face" /></a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" title="PyTorch" /></a>
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/soundarya-ds" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/soundaryalakshmi-rajendran" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/soundarya0986" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
-### Badges
+### 🔗 Socials
 
-<b>My GitHub Stats</b>
+<p align="left">
+<a href="https://www.github.com/soundarya-ds" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+  </picture>
+</a>
+<a href="https://www.linkedin.com/in/soundaryalakshmi-rajendran" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+  </picture>
+</a>
+<a href="https://discord.com/users/soundarya0986" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
+  </picture>
+</a>
+</p>
 
-<a href="http://www.github.com/soundarya-ds"><img src="https://github-readme-stats.vercel.app/api?username=soundarya-ds&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="soundarya-ds's GitHub stats" /></a>
+---
+
+### 📊 GitHub Stats
+
+<a href="http://www.github.com/soundarya-ds"><img src="https://github-readme-stats.vercel.app/api?username=soundarya-ds&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="soundarya-ds's GitHub stats" /></a>
 
 <a href="http://www.github.com/soundarya-ds"><img src="https://github-readme-streak-stats.herokuapp.com/?user=soundarya-ds&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/soundarya-ds" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soundarya-ds&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/soundarya-ds"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soundarya-ds&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Top%20Languages" alt="Top Languages" /></a>
