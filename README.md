@@ -21,29 +21,47 @@ Previously, I worked as a Junior Software Tester, where I collaborated with cros
 
 ### 🛠 Skills
 
+---
+
+### 🛠 Skills
+
 **Programming Languages**
 
-Python • R • SQL • PostgreSQL
+![Python](https://img.shields.io/badge/Python-2173C4?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-1E1E1E?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A2E6C?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Machine Learning**
+**AI / ML & Data Science**
 
-Scikit-learn • Predictive Modeling • NLP • Feature Engineering
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-E05C28?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-5B21B6?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-0F766E?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-2173C4?style=for-the-badge&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-1E1E1E?style=for-the-badge&logoColor=white)
+![Predictive Modeling](https://img.shields.io/badge/Predictive_Modeling-475569?style=for-the-badge&logoColor=white)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-3730A3?style=for-the-badge&logoColor=white)
 
 **Data Analysis**
 
-EDA • Statistical Analysis • Data Cleaning
+![EDA](https://img.shields.io/badge/EDA-0F766E?style=for-the-badge&logoColor=white)
+![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-475569?style=for-the-badge&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-2E7D32?style=for-the-badge&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-2173C4?style=for-the-badge&logo=r&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E05C28?style=for-the-badge&logo=tableau&logoColor=white)
 
-**Visualization**
+**Tools & Environment**
 
-ggplot2 • Matplotlib • Tableau
-
-**Tools**
-
-Git • Jupyter Notebook • RStudio • VS Code
+![Git](https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-E05C28?style=for-the-badge&logo=jupyter&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-2173C4?style=for-the-badge&logo=rstudioide&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-2173C4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-0F766E?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 **Cloud**
 
-AWS • Google Cloud
+![AWS](https://img.shields.io/badge/AWS-E05C28?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-2173C4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
 # 💼 Experience
