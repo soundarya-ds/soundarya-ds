@@ -58,23 +58,28 @@ Previously, I worked as a Junior Software Tester, where I collaborated with cros
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285f4?style=for-the-badge&logo=googlecloud&logoColor=e8f0fe)
 
 ---
-# 💼 Experience
+## 💼 Experience
 
-### Volunteer Data Scientist | Grafham Analytics
-*May 2026 – Present*
+### 🔵 Volunteer Data Scientist · Grafham Analytics
+> Michigan Data Center Project &nbsp;|&nbsp; `May 2026 – Present`
 
-- Conduct exploratory data analysis (EDA), statistical analysis, and data cleaning on demographic, environmental, and infrastructure datasets.
-- Create geospatial visualizations using R.
-- Integrate data from multiple public sources to support the Michigan Data Center project.
+- Conduct EDA, statistical analysis, and data cleaning on demographic, environmental & infrastructure datasets
+- Create geospatial visualisations using **R**
+- Integrate data from multiple public sources (Census, EPA EJScreen)
+
+`R` `EDA` `Geospatial` `Excel`
 
 ---
 
-### Junior Software Tester | Axeraan Technologies
-*Nov 2020 – Dec 2022*
+### ⚫ Junior Software Tester · Axeraan Technologies
+> `Nov 2020 – Dec 2022`
 
-- Executed functional and regression testing to improve software quality.
-- Collaborated with cross-functional teams to identify and resolve defects.
-- Improved issue resolution efficiency by 30%.
+- Executed functional and regression testing to improve software quality
+- Collaborated with cross-functional teams to identify and resolve defects
+- Improved issue resolution efficiency by **30% ↑**
+
+`Functional Testing` `Regression Testing` `QA`
+
 ---
 # 🚀 Featured Projects
 
