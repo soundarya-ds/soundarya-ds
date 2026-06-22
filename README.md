@@ -81,26 +81,15 @@ Previously, I worked as a Junior Software Tester, where I collaborated with cros
 `Functional Testing` `Regression Testing` `QA`
 
 ---
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-### 🧠 AI Mental Health Chatbot
-- NLP chatbot built with Python
-- Intent recognition and intelligent response generation
-- Reduced response time by 40%
-
----
-
-### 📊 Michigan Data Center Analysis
-- Performed EDA and statistical analysis on demographic datasets
-- Integrated Census and EPA EJScreen data
-- Built visualizations using R and SQL
+| 🧠 AI Mental Health Chatbot | 📊 Michigan Data Center | 📈 Nutrition & Obesity Analysis |
+|---|---|---|
+| NLP-powered chatbot with intent recognition and intelligent response generation | EDA & statistical analysis on demographic datasets integrating Census and EPA EJScreen data | Regression analysis and predictive modeling to identify key obesity risk factors |
+| `Python` `NLP` `Intent Recognition` | `R` `EDA` `Geospatial` | `Python` `R` `Regression` |
+| ⬇️ 40% response time | | |
 
 ---
-
-### 📈 Nutrition & Obesity Analysis
-- Predictive modeling using Python and R
-- Regression analysis to identify obesity risk factors
-
 # 🎓 Education
 
 **University of Michigan–Dearborn**
