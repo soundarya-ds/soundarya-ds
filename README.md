@@ -52,11 +52,6 @@ Previously, I worked as a Junior Software Tester, where I collaborated with cros
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d4?style=for-the-badge&logo=visualstudiocode&logoColor=dff0ff)
 ![Excel](https://img.shields.io/badge/Excel-1d6f42?style=for-the-badge&logo=microsoftexcel&logoColor=d4f5e2)
 
-**Cloud**
-
-![AWS](https://img.shields.io/badge/AWS-ff9900?style=for-the-badge&logo=amazonaws&logoColor=3d2100)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285f4?style=for-the-badge&logo=googlecloud&logoColor=e8f0fe)
-
 ---
 ## 💼 Experience
 
