@@ -78,11 +78,10 @@ Previously, I worked as a Junior Software Tester, where I collaborated with cros
 ---
 ## 🚀 Featured Projects
 
-| 🧠 AI Mental Health Chatbot | 📊 Michigan Data Center | 📈 Nutrition & Obesity Analysis |
+| 🧠 AI Mental Health Companion | 📊 Michigan Data Center | 📈 Nutrition & Obesity Analysis |
 |---|---|---|
-| NLP-powered chatbot with intent recognition and intelligent response generation | EDA & statistical analysis on demographic datasets integrating Census and EPA EJScreen data | Regression analysis and predictive modeling to identify key obesity risk factors |
-| `Python` `NLP` `Intent Recognition` | `R` `EDA` `Geospatial` | `Python` `R` `Regression` |
-| ⬇️ 40% response time | | |
+| Local LLM-powered conversational AI paired with sentiment analysis to provide emotionally aware responses | EDA & statistical analysis on demographic datasets integrating Census and EPA EJScreen data | Regression analysis and predictive modeling to identify key obesity risk factors |
+| `Python` `Local LLM` `Sentiment Analysis` `NLP` | `R` `EDA` `Geospatial` | `Python` `R` `Regression` |
 
 ---
 # 🎓 Education
