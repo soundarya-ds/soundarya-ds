@@ -21,10 +21,6 @@ Previously, I worked as a Junior Software Tester, where I collaborated with cros
 
 ### 🛠 Skills
 
----
-
-### 🛠 Skills
-
 **Programming Languages**
 
 ![Python](https://img.shields.io/badge/Python-2173C4?style=for-the-badge&logo=python&logoColor=white)
