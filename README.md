@@ -21,41 +21,41 @@ Previously, I worked as a Junior Software Tester, where I collaborated with cros
 
 **Programming Languages**
 
-![Python](https://img.shields.io/badge/Python-2173C4?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-1E1E1E?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A2E6C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2b5b9e?style=for-the-badge&logo=python&logoColor=c9dcf7)
+![R](https://img.shields.io/badge/R-2060a0?style=for-the-badge&logo=r&logoColor=bdd6f5)
+![SQL](https://img.shields.io/badge/SQL-2d2d2d?style=for-the-badge&logoColor=c8c8c8)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=c5dcf0)
 
-**AI / ML & Data Science**
+**Machine Learning & AI**
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-E05C28?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-5B21B6?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-0F766E?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-2173C4?style=for-the-badge&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-1E1E1E?style=for-the-badge&logoColor=white)
-![Predictive Modeling](https://img.shields.io/badge/Predictive_Modeling-475569?style=for-the-badge&logoColor=white)
-![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-3730A3?style=for-the-badge&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-f08030?style=for-the-badge&logo=scikitlearn&logoColor=fff3e8)
+![Pandas](https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=a9a3e8)
+![NumPy](https://img.shields.io/badge/NumPy-4dabcf?style=for-the-badge&logo=numpy&logoColor=e8f7fc)
+![NLP](https://img.shields.io/badge/NLP-374151?style=for-the-badge&logoColor=d1d5db)
+![Predictive Modeling](https://img.shields.io/badge/Predictive_Modeling-64748b?style=for-the-badge&logoColor=e2e8f0)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-4338ca?style=for-the-badge&logoColor=c7d2fe)
 
-**Data Analysis**
+**Data Analysis & Visualisation**
 
-![EDA](https://img.shields.io/badge/EDA-0F766E?style=for-the-badge&logoColor=white)
-![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-475569?style=for-the-badge&logoColor=white)
-![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-2E7D32?style=for-the-badge&logoColor=white)
-![ggplot2](https://img.shields.io/badge/ggplot2-2173C4?style=for-the-badge&logo=r&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E05C28?style=for-the-badge&logo=tableau&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-0f766e?style=for-the-badge&logoColor=ccfbf1)
+![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-475569?style=for-the-badge&logoColor=e2e8f0)
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-15803d?style=for-the-badge&logoColor=bbf7d0)
+![ggplot2](https://img.shields.io/badge/ggplot2-1a56a0?style=for-the-badge&logo=r&logoColor=bdd6f5)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=b2d4e8)
+![Tableau](https://img.shields.io/badge/Tableau-e8762d?style=for-the-badge&logoColor=fff3e8)
 
 **Tools & Environment**
 
-![Git](https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-E05C28?style=for-the-badge&logo=jupyter&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-2173C4?style=for-the-badge&logo=rstudioide&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-2173C4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-0F766E?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=d4d4d4)
+![Jupyter](https://img.shields.io/badge/Jupyter-f37626?style=for-the-badge&logo=jupyter&logoColor=fff3e8)
+![RStudio](https://img.shields.io/badge/RStudio-75aadb?style=for-the-badge&logo=rstudioide&logoColor=0e2a4a)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d4?style=for-the-badge&logo=visualstudiocode&logoColor=dff0ff)
+![Excel](https://img.shields.io/badge/Excel-1d6f42?style=for-the-badge&logo=microsoftexcel&logoColor=d4f5e2)
 
 **Cloud**
 
-![AWS](https://img.shields.io/badge/AWS-E05C28?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-2173C4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-ff9900?style=for-the-badge&logo=amazonaws&logoColor=3d2100)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285f4?style=for-the-badge&logo=googlecloud&logoColor=e8f0fe)
 
 ---
 # 💼 Experience
