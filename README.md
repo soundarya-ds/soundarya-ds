@@ -2,8 +2,6 @@
 
 <h3>Data Scientist • Statistical Modeling • Machine Learning • Data Analytics</h3>
 
-![](https://komarev.com/ghpvc/?username=soundarya-ds&style=flat-square)
-
 I'm a recent MS in Data Science graduate from the University of Michigan–Dearborn with experience in statistical modeling, machine learning, exploratory data analysis (EDA), predictive analytics, and NLP.
 
 I'm currently volunteering as a Data Scientist at **Grafham Analytics**, where I work on the Michigan Data Center project, performing data cleaning, statistical analysis, geospatial visualization, and exploratory data analysis using **R**, **SQL**, and **Excel**.
